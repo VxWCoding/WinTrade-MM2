@@ -1,0 +1,4727 @@
+[
+    {
+        "itemName": "Nik's Scythe",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Niks_Scythe.png",
+        "value": 0,
+        "demand": 11,
+        "stability": "Overpaid For"
+    },
+    {
+        "itemName": "Gingerscope",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Gingerscope.png",
+        "value": 18500,
+        "demand": 7,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Traveler's Axe",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/TravelersAxe.png",
+        "value": 8000,
+        "demand": 7,
+        "stability": "Doing Well"
+    },
+    {
+        "itemName": "Celestial",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Celestial.png",
+        "value": 1725,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Vampire's Axe",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Vampires_Axe.png",
+        "value": 925,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Harvester",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Harvester.png",
+        "value": 310,
+        "demand": 3,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "Icepiercer",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Icepiercer.png",
+        "value": 210,
+        "demand": 3,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "Icebreaker",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Icebreaker.png",
+        "value": 100,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Swirly Axe",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Swirly_Axe.png",
+        "value": 52,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Batwing",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Batwing.png",
+        "value": 50,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Elderwood Scythe",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Elderwood_Scythe.png",
+        "value": 50,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Hallowscythe",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Hallowscythe.png",
+        "value": 35,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Logchopper",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Logchopper.png",
+        "value": 20,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Icewing",
+        "thumbnail": "https://supremevalues.com/media/mm2ancients/Icewing.png",
+        "value": 15,
+        "demand": 2,
+        "stability": "Fluctuating"
+    },
+    {
+        "itemName": "Corrupt",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Corrupt.png",
+        "value": 600,
+        "demand": 4,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "slouse's Clown (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Slouses_Clown_Gun.png",
+        "value": 0,
+        "demand": 11,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "slouse's Clown (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Slouses_Clown_Knife.png",
+        "value": 0,
+        "demand": 11,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Sharkseeker",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/SharkSeeker2.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Dartbringer",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Dartbringer.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Candy",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Candy.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Hallow",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Hallow.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Sugar",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Sugar.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Elderwood",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Elderwood.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Minty",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Minty.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Logchopper",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Logchopper.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Vamp's Edge",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Vamps_Edge.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Iceblaster",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Iceblaster.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Icebreaker",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Icebreaker.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Harvester",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Harvester.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Swirly",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Swirly_Gun.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Swirly",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Swirly_Axe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Elderwood",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Elderwood_Blade.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Icecrusher",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Icecrusher.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Icepiercer",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Icepiercer.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Traveler's",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Travelers.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Gingerscythe",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Gingerscythe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Gingerscope",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Gingerscope.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Vampire's Axe",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Vampires_Axe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Constellation",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Constellation.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Celestial",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Celestial.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Synthwave",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Gold_Synthwave.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gold Placeholder",
+        "thumbnail": "https://supremevalues.com/media/N_A.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Candy",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Candy.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Hallow",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Hallow.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Sugar",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Sugar.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Elderwood",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Elderwood.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Minty",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Minty.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Logchopper",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Logchopper.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Vamp's Edge",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Vamps_Edge.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Iceblaster",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Iceblaster.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Icebreaker",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Icebreaker.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Harvester",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Harvester.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Swirly",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Swirly_Gun.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Swirly",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Swirly_Axe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Elderwood",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Elderwood_Blade.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Icecrusher",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Icecrusher.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Icepiercer",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Icepiercer.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Traveler's",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Travelers.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Gingerscythe",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Gingerscythe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Gingerscope",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Gingerscope.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Vampire's Axe",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Vampires_Axe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Constellation",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Constellation.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Celestial",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Celestial.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Synthwave",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Silver_Synthwave.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Silver Placeholder",
+        "thumbnail": "https://supremevalues.com/media/N_A.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Candy",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Candy.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Hallow",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Hallow.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Sugar",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Sugar.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Elderwood",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Elderwood.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Minty",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Minty.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Logchopper",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Logchopper.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Vamp's Edge",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Vamps_Edge.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Iceblaster",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Iceblaster.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Icebreaker",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Icebreaker.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Harvester",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Harvester.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Swirly",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Swirly_Gun.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Swirly",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Swirly_Axe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Elderwood",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Elderwood_Blade.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Icecrusher",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Icecrusher.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Icepiercer",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Icepiercer.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Traveler's",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Travelers.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Gingerscythe",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Gingerscythe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Gingerscope",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Gingerscope.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Vampire's Axe",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Vampires_Axe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Constellation",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Constellation.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Celestial",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Celestial.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Synthwave",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Bronze_Synthwave.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Bronze Placeholder",
+        "thumbnail": "https://supremevalues.com/media/N_A.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Candy",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Candy.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Red Hallow",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Red_Hallow.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Sugar",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Sugar.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Elderwood",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Elderwood.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Minty",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Minty.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Logchopper",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Logchopper.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Vamp's Edge",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Vamps_Edge.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Red Iceblaster",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Red_Iceblaster.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Red Icebreaker",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Red_Icebreaker.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Harvester",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Harvester.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Swirly",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Swirly_Gun.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Swirly",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Swirly_Axe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Elderwood",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Elderwood_Blade.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Red Icecrusher",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Red_Icecrusher.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Red Icepiercer",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Red_Icepiercer.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Red Traveler's",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Red_Travelers.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Gingerscythe",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Gingerscythe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Gingerscope",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Gingerscope.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Purple Vampire's Axe",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Purple_Vampires_Axe.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Red Constellation",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Red_Constellation.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Red Celestial",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Red_Celestial.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Blue Synthwave",
+        "thumbnail": "https://supremevalues.com/media/mm2uniques/Blue_Synthwave.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Top 100 Placeholder",
+        "thumbnail": "https://supremevalues.com/media/N_A.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Synthwave (Var. 4)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/SynthwaveV4.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Synthwave (Var. 3)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/SynthwaveV3.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Synthwave (Var. 2)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/SynthwaveV2.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Synthwave (Var. 1)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/SynthwaveV1.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gingerscythe (Var. 4)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/GingerScytheV4.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gingerscythe (Var. 3)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/GingerScytheV3.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gingerscythe (Var. 2)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/GingerScytheV2.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Gingerscythe (Var. 1)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/GingerScytheV1.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Icecrusher (Variant 4)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/IcecrusherV4.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Icecrusher (Variant 3)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/IcecrusherV3.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Icecrusher (Variant 2)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/IcecrusherV2.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Icecrusher (Variant 1)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/IcecrusherV1.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Reaver (Variant 4)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/ReaverV4.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Reaver (Variant 3)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/ReaverV3.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Reaver (Variant 2)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/ReaverV2.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Reaver (Variant 1)",
+        "thumbnail": "https://supremevalues.com/media/mm2evos/ReaverV1.png",
+        "value": 0,
+        "demand": 0,
+        "stability": "Bad"
+    },
+    {
+        "itemName": "Ghost",
+        "thumbnail": "https://supremevalues.com/media/mm2vintages/Ghost.png",
+        "value": 10,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Blood",
+        "thumbnail": "https://supremevalues.com/media/mm2vintages/Blood.png",
+        "value": 8,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Laser",
+        "thumbnail": "https://supremevalues.com/media/mm2vintages/Laser.png",
+        "value": 8,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "America",
+        "thumbnail": "https://supremevalues.com/media/mm2vintages/America.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Prince",
+        "thumbnail": "https://supremevalues.com/media/mm2vintages/Prince.png",
+        "value": 6,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Shadow",
+        "thumbnail": "https://supremevalues.com/media/mm2vintages/Shadow.png",
+        "value": 6,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Phaser",
+        "thumbnail": "https://supremevalues.com/media/mm2vintages/Phaser.png",
+        "value": 5,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cowboy",
+        "thumbnail": "https://supremevalues.com/media/mm2vintages/Cowboy.png",
+        "value": 4,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Golden",
+        "thumbnail": "https://supremevalues.com/media/mm2vintages/Golden.png",
+        "value": 4,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Splitter",
+        "thumbnail": "https://supremevalues.com/media/mm2vintages/Splitter.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "C. Traveler's Gun",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CTG.png",
+        "value": 225000,
+        "demand": 9,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Evergun",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CEvergun.png",
+        "value": 104000,
+        "demand": 8,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Evergreen",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CEvergreen.png",
+        "value": 64000,
+        "demand": 7,
+        "stability": "Receding"
+    },
+    {
+        "itemName": "Chroma Bauble",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CBaub.png",
+        "value": 42000,
+        "demand": 7,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "C. Vampire's Gun",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CVG.png",
+        "value": 39000,
+        "demand": 7,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "C. Constellation",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CConst.png",
+        "value": 36000,
+        "demand": 7,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Alienbeam",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CAB.png",
+        "value": 35000,
+        "demand": 7,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Raygun",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CRG.png",
+        "value": 15500,
+        "demand": 6,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "Chroma Sunrise",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CSR.png",
+        "value": 11250,
+        "demand": 6,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "C. Snowcannon",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CCannon.png",
+        "value": 8750,
+        "demand": 6,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "Chroma Blizzard",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CBZ.png",
+        "value": 8000,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Sunset",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CSS.png",
+        "value": 6750,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Treat",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CTreat.png",
+        "value": 5000,
+        "demand": 6,
+        "stability": "Doing Well"
+    },
+    {
+        "itemName": "Chroma Snowstorm",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CSnowstorm.png",
+        "value": 4750,
+        "demand": 5,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "C. Heart Wand",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CHW.png",
+        "value": 4500,
+        "demand": 6,
+        "stability": "Doing Well"
+    },
+    {
+        "itemName": "Chroma Sweet",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CSweet.png",
+        "value": 4250,
+        "demand": 6,
+        "stability": "Improving"
+    },
+    {
+        "itemName": "C. Snow Dagger",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CDagger.png",
+        "value": 3700,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Watergun",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CWG.png",
+        "value": 3400,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Ornament",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/COR.png",
+        "value": 3150,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "C. Darkbringer",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CDB.png",
+        "value": 90,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "C. Lightbringer",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CLB.png",
+        "value": 85,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "C. Candleflame",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CCF.png",
+        "value": 60,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Luger",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CLuger.png",
+        "value": 57,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "C. Elderwood Blade",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CEB.png",
+        "value": 55,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "C. Swirly Gun",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CSG.png",
+        "value": 55,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "C. Cookiecane",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CCC.png",
+        "value": 50,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Laser",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CLaser.png",
+        "value": 50,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "C. Deathshard",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CDS.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Slasher",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CSlasher.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Shark",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CShark.png",
+        "value": 43,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Fang",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CFang.png",
+        "value": 42,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Gemstone",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CGem.png",
+        "value": 38,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Heat",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CHeat.png",
+        "value": 38,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "C. Gingerblade",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CGB.png",
+        "value": 37,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Saw",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CSaw.png",
+        "value": 37,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Seer",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CSeer.png",
+        "value": 37,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Tides",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CTides.png",
+        "value": 35,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Boneblade",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CBB.png",
+        "value": 30,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chroma Fire Bat",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CBat.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "Chroma Fire Bear",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CBear.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "C. Fire Bunny",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CBunny.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "Chroma Fire Cat",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CCat.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "Chroma Fire Dog",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CDog.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "Chroma Fire Fox",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CFox.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "Chroma Fire Pig",
+        "thumbnail": "https://supremevalues.com/media/mm2chromas/CPig.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "Traveler's Gun",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/TravelersGun.png",
+        "value": 4250,
+        "demand": 6,
+        "stability": "Doing Well"
+    },
+    {
+        "itemName": "Evergun",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Evergun.png",
+        "value": 3450,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Constellation",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Constellation.png",
+        "value": 2900,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Evergreen",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Evergreen.png",
+        "value": 2600,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Alienbeam",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Alienbeam.png",
+        "value": 2000,
+        "demand": 7,
+        "stability": "Overpaid For"
+    },
+    {
+        "itemName": "Turkey",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Turkey.png",
+        "value": 1900,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Vampire's Gun",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Vampires_Gun.png",
+        "value": 1700,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Raygun",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Raygun.png",
+        "value": 1300,
+        "demand": 6,
+        "stability": "Overpaid For"
+    },
+    {
+        "itemName": "Darkshot",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Darkshot.png",
+        "value": 1200,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Darksword",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Darksword.png",
+        "value": 1180,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Blossom",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Blossom.png",
+        "value": 1100,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sakura",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Sakura.png",
+        "value": 1090,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bauble",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Bauble.png",
+        "value": 925,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sunrise",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Sunrise.png",
+        "value": 750,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowcannon",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Snowcannon.png",
+        "value": 650,
+        "demand": 5,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sunset",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Sunset.png",
+        "value": 375,
+        "demand": 4,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Soul",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Soul.png",
+        "value": 325,
+        "demand": 4,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Spirit",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Spirit.png",
+        "value": 315,
+        "demand": 4,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Rainbow Gun",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Rainbow_Gun.png",
+        "value": 300,
+        "demand": 4,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Rainbow",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Rainbow_Knife.png",
+        "value": 290,
+        "demand": 4,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Flora",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Flora.png",
+        "value": 270,
+        "demand": 4,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bloom",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Bloom.png",
+        "value": 260,
+        "demand": 4,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Heart Wand",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Heart_Wand.png",
+        "value": 230,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Treat",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Treat.png",
+        "value": 210,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Flowerwood Gun",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Flowerwood_Gun.png",
+        "value": 205,
+        "demand": 4,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sweet",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Sweet.png",
+        "value": 205,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Flowerwood",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Flowerwood.png",
+        "value": 200,
+        "demand": 4,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Xenoknife",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Xenoknife.png",
+        "value": 200,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Xenoshot",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Xenoshot.png",
+        "value": 200,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snow Dagger",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Snow_Dagger.png",
+        "value": 185,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ocean",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Ocean.png",
+        "value": 170,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Waves",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Waves.png",
+        "value": 165,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Blizzard",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Blizzard.png",
+        "value": 150,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowstorm",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Snowstorm.png",
+        "value": 150,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bat",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Bat.png",
+        "value": 145,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Watergun",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Watergun.png",
+        "value": 135,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Borealis",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Borealis.png",
+        "value": 105,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Candy",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Candy.png",
+        "value": 105,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Australis",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Australis.png",
+        "value": 100,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Heartblade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Heartblade.png",
+        "value": 95,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pearlshine",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Pearlshine.png",
+        "value": 55,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pearl",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Pearl.png",
+        "value": 50,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Luger",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Luger.png",
+        "value": 50,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Candleflame",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Candleflame.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Elderwood Blade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Elderwood_Blade.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Makeshift",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Makeshift.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Phantom",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Phantom.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Spectre",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Spectre.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Darkbringer",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Darkbringer.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Elderwood Revolver",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Elderwood_Revolver.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Iceblaster",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Iceblaster.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Red Luger",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Red_Luger.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sugar",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Sugar.png",
+        "value": 45,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Lightbringer",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Lightbringer.png",
+        "value": 40,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Swirly Gun",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Swirly_Gun.png",
+        "value": 35,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ornament",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Ornament.png",
+        "value": 35,
+        "demand": 2,
+        "stability": "Underpaid For"
+    },
+    {
+        "itemName": "Green Luger",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Green_Luger.png",
+        "value": 30,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Laser",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Laser.png",
+        "value": 27,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Amerilaser",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Amerilaser.png",
+        "value": 25,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Hallowgun",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Hallowgun.png",
+        "value": 25,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Icebeam",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Ice_Beam.png",
+        "value": 25,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Plasmabeam",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Plasmabeam.png",
+        "value": 25,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Swirly Blade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Swirly_Blade.png",
+        "value": 23,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Iceflake",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Ice_Flake.png",
+        "value": 23,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Plasmablade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Plasmablade.png",
+        "value": 23,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Shark",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Shark.png",
+        "value": 23,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Nightblade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Nightblade.png",
+        "value": 22,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Blaster",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Blaster.png",
+        "value": 20,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ginger Luger",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Ginger_Luger.png",
+        "value": 20,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pixel",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Pixel.png",
+        "value": 20,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cookiecane",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Cookiecane.png",
+        "value": 18,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingermint",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Gingermint.png",
+        "value": 18,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Lugercane",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Lugercane.png",
+        "value": 18,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Minty",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Minty.png",
+        "value": 18,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Old Glory",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Old_Glory.png",
+        "value": 18,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Slasher",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Slasher.png",
+        "value": 18,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Battleaxe II",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/BA2.png",
+        "value": 18,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Eternalcane",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Eternalcane.png",
+        "value": 17,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Jinglegun",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Jinglegun.png",
+        "value": 17,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Virtual",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Virtual.png",
+        "value": 17,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gemstone",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Gemstone.png",
+        "value": 17,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerblade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Gingerblade.png",
+        "value": 17,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Nebula",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Nebula.png",
+        "value": 15,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Vampire's Edge",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Vampires_Edge.png",
+        "value": 15,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Deathshard",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Deathshard.png",
+        "value": 15,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Battleaxe",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Battleaxe.png",
+        "value": 12,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bioblade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Bioblade.png",
+        "value": 10,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chill",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Chill.png",
+        "value": 10,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Clockwork",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Clockwork.png",
+        "value": 10,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Eternal III",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Eternal3.png",
+        "value": 10,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Eternal IV",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Eternal4.png",
+        "value": 10,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Fang",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Fang.png",
+        "value": 10,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Frostsaber",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Frostsaber.png",
+        "value": 10,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Heat",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Heat.png",
+        "value": 10,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Spider",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Spider.png",
+        "value": 10,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Tides",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Tides.png",
+        "value": 10,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Eternal",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Eternal.png",
+        "value": 8,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Eternal II",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Eternal2.png",
+        "value": 8,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Hallow's Blade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Hallows_Blade.png",
+        "value": 8,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Hallow's Edge",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Hallows_Edge.png",
+        "value": 8,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Handsaw",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Handsaw.png",
+        "value": 8,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Xmas",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Xmas.png",
+        "value": 8,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Boneblade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Boneblade.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Frostbite",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Frostbite.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ghostblade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Ghostblade.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ice Dragon",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Ice_Dragon.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ice Shard",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Ice_Shard.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Prismatic",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Prismatic.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pumpking",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Pumpking.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Saw",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Saw.png",
+        "value": 7,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Eggblade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Eggblade.png",
+        "value": 5,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Flames",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Flames.png",
+        "value": 5,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowflake",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Snowflake.png",
+        "value": 5,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Winter's Edge",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Winters_Edge.png",
+        "value": 5,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Peppermint",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Peppermint.png",
+        "value": 4,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cookieblade",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Cookieblade.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Blue Seer",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Blue_Seer.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Purple Seer",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Purple_Seer.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Red Seer",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Red_Seer.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Seer",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Seer.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Orange Seer",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Orange_Seer.png",
+        "value": 2,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Yellow Seer",
+        "thumbnail": "https://supremevalues.com/media/mm2godlies/Yellow_Seer.png",
+        "value": 2,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "JD",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/JD.png",
+        "value": 35,
+        "demand": 2,
+        "stability": "Fluctuating"
+    },
+    {
+        "itemName": "Latte (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Latte_Fade_Gun.png",
+        "value": 130,
+        "demand": 3,
+        "stability": "Fluctuating"
+    },
+    {
+        "itemName": "Latte (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Latte_Fade_Knife.png",
+        "value": 130,
+        "demand": 3,
+        "stability": "Fluctuating"
+    },
+    {
+        "itemName": "Cotton Candy",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Cotton_Candy.png",
+        "value": 40,
+        "demand": 2,
+        "stability": "Fluctuating"
+    },
+    {
+        "itemName": "Beach",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Beach.png",
+        "value": 30,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Traveler (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Traveler_Gun.png",
+        "value": 25,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Spectral (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Spectral_Knife.png",
+        "value": 20,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Vampire (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Vampire_Gun.png",
+        "value": 15,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Aurora (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Aurora_Gun.png",
+        "value": 13,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cavern (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Cavern_Knife.png",
+        "value": 7,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Skulls",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Skulls.png",
+        "value": 7,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Broken",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Broken.png",
+        "value": 7,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ginger (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Ginger_Gun.png",
+        "value": 6,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Arctic (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Arctic_Gun.png",
+        "value": 5,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Icedriller",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Icedriller.png",
+        "value": 5,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Nightsky",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Nightsky.png",
+        "value": 5,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ghost (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Ghost_Knife.png",
+        "value": 5,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bunnies",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Bunnies.png",
+        "value": 4,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Red Scratch",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Scratch.png",
+        "value": 4,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Vampire (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Vampire_Knife.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Witched",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Witched.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Blue Elite",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Blue_Elite.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Green Elite",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Green_Elite.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Santa's Magic",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Santas_Magic.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Santa's Spirit",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Santas_Spirit.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Aurora (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Aurora_Knife.png",
+        "value": 2,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Spectral (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Spectral_Gun.png",
+        "value": 2,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Traveler (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Traveler_Knife.png",
+        "value": 2,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Blue Scratch",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Blue_Scratch.png",
+        "value": 2,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ghost (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Ghost_Gun.png",
+        "value": 2,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chromatic (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Chromatic_Knife.png",
+        "value": 1,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Energized (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Energized_Gun.png",
+        "value": 1,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Frostfade (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Frostfade_Knife.png",
+        "value": 1,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Icecracker",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Icecracker.png",
+        "value": 1,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Red Fire",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Red_Fire.png",
+        "value": 1,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cavern (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Cavern_Gun.png",
+        "value": 1,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Arctic (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Arctic_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Chromatic (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Chromatic_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Emerald",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Emerald.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Energized (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Energized_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Overseer (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Overseer_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Predator (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Predator_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ripper (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Ripper_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Rupture",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Rupture.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Tree (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Tree_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Tree (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Tree_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Web",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Web.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Green Fire",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Green_Fire.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Aquarium (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Aquarium_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cupid",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Cupid.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cursed (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Cursed_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Frozen (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Frozen_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Frozen (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Frozen_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Midnight",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Midnight.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Nightstar",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Nightstar.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Palms (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Palms_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sparkle",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Sparkle.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cursed (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Cursed_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Frostfade (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Frostfade_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ripper (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Ripper_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ginger (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Ginger_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Aquarium (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Aquarium.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Palms (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Palms_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Overseer (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Overseer_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Predator (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Predator_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Rune",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Rune.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Universe",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Universe.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Viper",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Viper.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Fade",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Fade.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Fusion",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Fusion.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Plasmite",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Plasmite.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Shiny",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Shiny.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Splash (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Splash_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Elite",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Elite.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Splash (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2legendaries/Splash_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cane Knife (2018)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Cane_Knife_2018.png",
+        "value": 700,
+        "demand": 3,
+        "stability": "Receding"
+    },
+    {
+        "itemName": "Silent Night (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Silent_Night_Knife.png",
+        "value": 50,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Dungeon",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Dungeon.png",
+        "value": 40,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Zombified",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Zombified.png",
+        "value": 27,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Makeshift (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Makeshift.png",
+        "value": 25,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Aurora (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Aurora_Knife.png",
+        "value": 13,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Silent Night (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Silent_Night_Gun.png",
+        "value": 12,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Icicles (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Icicles_Gun.png",
+        "value": 10,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Darkknife",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Darkknife.png",
+        "value": 8,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Starry (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Starry_Gun.png",
+        "value": 8,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Floral (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Floral.png",
+        "value": 7,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Swirl",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Swirl.png",
+        "value": 7,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Toxic (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Toxic_Knife.png",
+        "value": 7,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Vampire (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Vampire_Gun.png",
+        "value": 7,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Candy Swirl (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Candy_Swirl_Gun.png",
+        "value": 5,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Magma",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Magma.png",
+        "value": 5,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Jack",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Jack.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Magma (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Magma_Gun.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snakebite (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Snakebite_Knife.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Watcher (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Watcher_Gun.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Monster",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Monster.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bats",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Bats.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Green Marble",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Green_Marble.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sun",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Sunset.png",
+        "value": 2,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Orange Marble",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Orangle_Marble.png",
+        "value": 2,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Toxic (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Toxic_Gun.png",
+        "value": 2,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ghastly (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Ghastly_Gun.png",
+        "value": 1,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerbread",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Gingerbread.png",
+        "value": 1,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Aurora (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Aurora_Gun.png",
+        "value": 1,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Candy Swirl (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Candy_Swirl_Knife.png",
+        "value": 1,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snakebite (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Snakebite_Gun.png",
+        "value": 1,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Vampire (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Vampire_Knife.png",
+        "value": 1,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowflakes",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Snowflakes.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Darkgun",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Darkgun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Starry (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Starry_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cane (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Cane_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cane (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Cane_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ginger (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Ginger_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ginger (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Ginger_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Mummy",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Mummy.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ghostfire",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Ghostfire.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cane 2018 (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Cane_Gun_2018.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Molten (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Molten_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Molten (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Molten_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowy",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Snowy.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wraith (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Wraith_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Icicles (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Icicles_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Butterflies",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Butterflies.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerbread (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Gingerbread_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Heart",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Heart.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Neon",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Neon.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Nuke",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Nuclear.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Painted (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Painted_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Candleflame (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Candleflame.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Damp",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Damp.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Frostflame (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Frostflame_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ghastly (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Ghastly_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Logcutter",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Logcutter.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Nether",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Nether.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Spitfire",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Spitfire.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Watcher (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Watcher_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Tree (2023)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Tree_2023.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Tree (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Tree_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bio",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Biogel.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bones (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Bones_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Curse",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Curse.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Frostflame (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Frostflame_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ghosts (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Ghosts_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerbread (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Gingerbread_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingercookie (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Gingercookie_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingercookie (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Gingercookie_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Hologram (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Hologram_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ice Camo",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Ice_Camo.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Magma (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Magma_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pop Art (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Pop_Art_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sharky",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Sharky.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Spearmint (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Spearmint_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Spearmint (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Spearmint_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Spring",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Spring.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Storm",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Storm.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sunny",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Sunny.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Tropical",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Tropical.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wraith (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Wraith_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Xeno (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Xeno_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Hologram (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Hologram_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Neon",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Neon_2025.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pop Art (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Pop_Art.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Portal (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Portal_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Robot",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Robot.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Tree (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Tree_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Xeno (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Xeno_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Heartbreak",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Heartbreak.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Kraken",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Kraken.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ritual",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Ritual.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowflake",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Snowflake.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowglobe",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Snowglobe.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Yummy",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Yummy.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Floral (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Floral_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sleigh",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Sleigh.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Waves",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Waves.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Black",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Black.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Abstract",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Abstract.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ace",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Ace.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bacon",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Bacon.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Galactic",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Galactic.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Galaxy",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Galaxy.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Hacker",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Hacker.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Imbued",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Imbued.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "iRevolver",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/iRevolver.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Korblox",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Korblox.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Krypto",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Krypto.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Musical",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Musical.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Nightfire",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Nightfire.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Nova",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Nova.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Purple",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Purple.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Rainbow (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Rainbow_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Rainbow (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Rainbow_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Space",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Space.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Spectrum",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Spectrum.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Squire",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Squire.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Vortex",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Vortex.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Deep Sea",
+        "thumbnail": "https://supremevalues.com/media/mm2rares/Deep_Sea.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bones",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Bones_Gun.png",
+        "value": 75,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Zombified (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Zombified_Knife.png",
+        "value": 65,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerbread (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Gingerbread_2019_Knife.png",
+        "value": 50,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sweater (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Sweater_Knife.png",
+        "value": 50,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Brains",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Brains.png",
+        "value": 45,
+        "demand": 3,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Branches",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Branches.png",
+        "value": 30,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Zombified (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Zombified_Gun.png",
+        "value": 15,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Skulls",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Skulls.png",
+        "value": 10,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Void",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Void.png",
+        "value": 10,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Zombie (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Zombie_Gun.png",
+        "value": 10,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Frozen (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Frozen_Gun.png",
+        "value": 8,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Mummy 2018 (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Mummy_Gun2.png",
+        "value": 8,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Potion (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Potion_Knife.png",
+        "value": 8,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Lights (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Lights_Gun.png",
+        "value": 5,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowflake",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Snowflake.png",
+        "value": 5,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Potion (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Potion_Gun.png",
+        "value": 5,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Webs",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Webs.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Frozen (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Frozen_Knife.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerbread (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Gingerbread_2019_Gun.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Mummy 2018 (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Mummy_2018_Knife.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Zombie (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Zombie_Knife.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pumpkin Pie",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Pumpkin_Pie.png",
+        "value": 3,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Holly (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Holly_Gun.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Potion (2017)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Potion.png",
+        "value": 3,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gothic (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Gothic_Gun.png",
+        "value": 2,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Mummy (2017)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Mummy_Knife3.png",
+        "value": 2,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Lights (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Lights_Knife.png",
+        "value": 1,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Moons",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Moons.png",
+        "value": 1,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Vampire",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Vampire.png",
+        "value": 1,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wolf",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wolf.png",
+        "value": 1,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerbread (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Gingerbread_2020_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Nutcracker",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Nutcracker.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowman (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Snowman_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowman (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Snowman_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowy",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Snowy.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wrapped (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wrapped_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wrapped (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wrapped_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gifted",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Gifted.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wrap (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wrap_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wrap (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wrap_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Zombie",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Zombie.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gothic (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Gothic_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowman (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Snowman_2021_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Stars (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Stars_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Tree (2021)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Tree_2021.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Zombie (2023)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Zombie2023.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Hazard (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Hazard_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Lantern",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Lantern.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Meltdown",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Meltdown_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pool Noodle",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Pool_Noodle.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Steel (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Steel_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerbread (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Gingerbread_2020_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Love (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Love_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cookie (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Cookie_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Moonlight",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Moonlight.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wraiths (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wraiths_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerheart",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Gingerheart.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Hazard (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Hazard_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Rose",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Rose.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wrapped Gun (2024)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wrapped_Gun_2024.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Frosty",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Frosty.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Holly (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Holly_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Mistletoe (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Mistletoe_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowflake 2022 (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Snowflake_Knife_2022.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Carrot (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Carrot_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Clown Gun (2024)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Clown_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Fireplace",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Fireplace.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Forest",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Forest.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Marble",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Marble.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Melon",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Melon_2023.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Mummy 2020 (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Mummy_2020_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowman (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Snowman_2021_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Canes (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Canes_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Carrot (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Carrot_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Stockings (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Stockings_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Brains 2022",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Brains_2022.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Carrot",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Carrot.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cookie (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Cookie_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Decorated",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Decorated.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Eyes",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Eyes.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Fall Camo",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Fall_Camo.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Floatie",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Floatie.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerbread",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Gingerbread.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Meadow",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Meadow.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Monster",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Monster.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Moons (2024)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Moons_2024.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Mummy 2020 (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Mummy_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Painted (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Painted_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pumpkin (2025)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Pumpkin_2025.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowflake (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Snowflake_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowflake 2022 (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Snowflake_Gun_2022.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Steel (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Steel_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sweater (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Sweater_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Treats (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Treats_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Witchbrew",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Witchbrew.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wraiths (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wraiths_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Stars (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Stars_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sweater",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Sweater.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Tree (2017)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Tree.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Checkers",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Checkers.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Eclipse",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Eclipse.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Future",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Future.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerbread (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Gingerbread_2025_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Glowy",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/GlowyKnife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Lava (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Lava_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Night",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Night.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Polar Bear",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Polar_Bear.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pool",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Pool.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Popsicle",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Popsicle.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Soda (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Soda_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sweater (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Sweater_2025_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ghostly",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Ghostly.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ghosts (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Ghosts_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Portal (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Portal_Gun.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pumpkin (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Pumpkin_Knife.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wrapped Knife (2024)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wrapped_Knife_2024.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Donut",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Donut.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Mistletoe (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Mistletoe_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Stockings (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Stockings_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Abduction",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Abduction.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Blossom",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Blossom.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bones (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Bones_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Canes (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Canes_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Gingerbread (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Gingerbread_2025_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Jellyfish",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Jellyfish.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Lava (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Lava.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Leaves",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Leaves.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Ornaments",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Ornaments.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Paws",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Paws.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Popsicle (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Popsicle_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pumpkin Patch",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Pumpkin_Patch.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Retro",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Retro.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowman (2023)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Snowman_2023.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Snowman (2024)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Snowman_2024.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Soda (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Soda_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Starry",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Starry.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sweater (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Sweater_2025_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Treats (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Treats_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Turtle",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Turtle.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Witch's Brew",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Witchs_Brew.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wreaths",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wreaths.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Doge",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Doge.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Sketch",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Sketch.png",
+        "value": 0,
+        "demand": 2,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Adurite (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Adurite_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Adurite (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Adurite_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Biogun",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Biogun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Blue",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Blue.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bluesteel (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Bluesteel_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Bluesteel (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Bluesteel_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Brush",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Brush.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Camo (Gun)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Camo_Gun.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Camo (Knife)",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Camo_Knife.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Caution",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Caution.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cheddar",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Cheddar.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Cheesy",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Cheesy.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Circuit",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Circuit.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Hazmat",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Hazmat.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Hive",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Hive.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Jigsaw",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Jigsaw.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Lucky",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Lucky.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Marina",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Marina.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Melon",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Melon.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Missing",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Missing.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Paper",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Paper.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pink",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Pink.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Pirate",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Pirate.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Red",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Red.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Soda",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Soda.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Stalker",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Stalker.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Tiger",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Tiger.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wanwood",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wanwood.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Wooden",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Wooden.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "Graffiti",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/Graffiti.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    },
+    {
+        "itemName": "High Tech",
+        "thumbnail": "https://supremevalues.com/media/mm2uncommons/High_Tech.png",
+        "value": 0,
+        "demand": 1,
+        "stability": "Stable"
+    }
+]
