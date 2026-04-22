@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/python-3.9+-blue)
+![OS](https://img.shields.io/badge/OS-Windows%2010%2F11-green)
+
 # 💜 WinTrade MM2
 
 > Fast, modern trade calculator for **Roblox Murder Mystery 2**
