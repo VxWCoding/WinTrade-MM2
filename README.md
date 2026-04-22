@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
 ![OS](https://img.shields.io/badge/OS-Windows%2010%2F11-green)
 
-[![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/unknownperson-vos/MultiBlox/releases/latest/download/MultiBlox.zip)
+[![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/VxWCoding/WinTrade-MM2/releases/download/wintrade-mm2/WinTrade_MM2.exe)
 
 # 💜 WinTrade MM2
 
