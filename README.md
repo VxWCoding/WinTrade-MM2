@@ -1,6 +1,8 @@
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
 ![OS](https://img.shields.io/badge/OS-Windows%2010%2F11-green)
 
+[![Download](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=github)](https://github.com/unknownperson-vos/MultiBlox/releases/latest/download/MultiBlox.zip)
+
 # 💜 WinTrade MM2
 
 > Fast, modern trade calculator for **Roblox Murder Mystery 2**
